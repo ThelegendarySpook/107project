@@ -1,0 +1,39 @@
+body 
+{
+    font-family: 'Special Elite', cursive ;
+    background: darkblue;
+}
+
+.header_div
+{
+    background: rgb(0, 76, 255);
+    color: white;
+}
+
+.header_div p{
+    font-family: fantasy;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
